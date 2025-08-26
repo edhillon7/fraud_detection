@@ -1,0 +1,32 @@
+#Machine Learning Libraries
+numpy
+pandas
+scikit-learn
+xgboost
+tensorflow
+imbalanced-learn
+torch
+torchvision
+torchaudio
+
+
+#Dataset 
+kaggle  
+
+# Data visualization (for notebooks)
+matplotlib
+seaborn
+
+# Web framework
+flask
+
+# Utilities
+joblib
+dill
+
+# Logging & exception handling
+python-dotenv
+
+# Jupyter support
+jupyter
+notebook

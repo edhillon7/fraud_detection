@@ -1,0 +1,5 @@
+artifacts/creditcard.csv filter=lfs diff=lfs merge=lfs -text
+artifacts/train.csv filter=lfs diff=lfs merge=lfs -text
+notebook/data/creditcardfraud.zip filter=lfs diff=lfs merge=lfs -text
+notebook/data/creditcard.csv filter=lfs diff=lfs merge=lfs -text
+artifacts/test.csv filter=lfs diff=lfs merge=lfs -text
