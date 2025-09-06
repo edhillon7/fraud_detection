@@ -8,7 +8,7 @@ imbalanced-learn
 torch
 torchvision
 torchaudio
-
+lightgbm
 
 #Dataset 
 kaggle  
